@@ -2,10 +2,10 @@
 This project demonstrates CRUD (Create, Read, Update, Delete) operations in an Angular application built with Angular Material. It provides a user-friendly interface for managing data stored in a JSON file(db.json). The application leverages the power and aesthetics of Angular Material to create a beautiful and responsive user experience.
 
 # Features
-Create: Add new records to the database.
-Read: View through the list of records.
-Update: Modify existing records with ease.
-Delete: Remove records securely.
+Create: Add new records to the database.   
+Read: View through the list of records.   
+Update: Modify existing records with ease.   
+Delete: Remove records securely.   
 
 # Technologies Used
 Angular: A powerful and popular JavaScript framework for building web applications.
